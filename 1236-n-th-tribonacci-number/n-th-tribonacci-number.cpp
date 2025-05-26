@@ -1,16 +1,27 @@
 class Solution {
 public:
-int tribo(int n,vector<int>& dp){
-    dp[0]=0;
-    if(n>=1)dp[1]=1;
-    if(n>=2)dp[2]=1;
-    for(int i=3;i<=n;i++){
-        dp[i]=dp[i-1]+dp[i-2]+dp[i-3];
+       //hame sirf last ke 3 variables k kam hai to pure array ko store kyo kre isse accha sirf teen varaibale maintain kr skte h
+       int f(int n){
+        //base cases handle krna padga hen n<3 to d bnega hi nahi
+     if (n == 0) return 0;
+        if (n == 1 || n == 2) return 1;
+
+
+    int a=0;
+    int b=1;
+    int c=1;
+    int i=3;
+    int d;
+    while(i<=n){
+        d=c+a+b;
+        a=b;
+        b=c;
+        c=d;
+        i++;
     }
-    return dp[n];
-}
+    return d;
+    }
     int tribonacci(int n) {
-        vector<int>dp(n+1);
-        return tribo(n,dp);
+        return f(n);
     }
 };
