@@ -19,6 +19,8 @@ public:
     int longestCommonSubsequence(string s1, string s2) {
         dp.clear();
         dp.resize(1005,vector<int>(1005,0));
+
+        //bottom up approach hai
         // 0 is liye kyoki hamar base case hi hai i>size to return 0;
         //hame kisis bhi ith jth state ke liyte aage ki sattes ki answer chahiye
         for(int i=s1.size()-1;i>=0;i--){
