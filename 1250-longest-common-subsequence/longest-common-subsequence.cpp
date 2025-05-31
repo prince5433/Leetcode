@@ -18,7 +18,7 @@ public:
     vector<vector<int>> dp;
     int longestCommonSubsequence(string s1, string s2) {
         dp.clear();
-        dp.resize(1005,vector<int>(1005,0));
+        dp.resize(1005,vector<int>(1005,0));//for top down -1 se hi initlaize krenge
 
         //bottom up approach hai
         // 0 is liye kyoki hamar base case hi hai i>size to return 0;
