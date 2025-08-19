@@ -1,25 +1,22 @@
-#define ll long long int
-
 class Solution {
 public:
-vector<ll> dp;
-ll f(string&str ,int i){
-    if(i<0) return 1;
-    if(i==0) return (str[0]!='0');
-
-    if(dp[i]!=-1) return dp[i];
-    ll ans=0;
-    if(str[i]-'0'>0){
-        ans+=f(str,i-1);
-    }
-    if(str[i-1]-'0'>0 and (str[i-1]-'0')*10+(str[i]-'0')<=26){
-        ans+=f(str,i-2);
-    }
-    return dp[i]=ans;
-}
     int numDecodings(string s) {
         int n=s.size();
-        dp.resize(n,-1);
-         return f(s,n-1);
+        if(n==0) return 0;
+        vector<int> dp(n+1,0);
+        dp[0]=1;//empty string
+        dp[1]=(s[0]!='0');//first char valid or not
+        for(int i=2;i<=n;i++){
+            //one digit (last char)
+            if(s[i-1]!='0'){
+                dp[i]+=dp[i-1];
+            }
+            //2 digit (last 2 char)
+            int two=(s[i-2]-'0')*10+(s[i-1]-'0');
+            if(two>=10 && two<=26){
+                dp[i]+=dp[i-2];
+            }
+        }
+        return dp[n];
     }
 };
