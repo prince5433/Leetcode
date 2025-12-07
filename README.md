@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+## Math
+|  |
+| ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/prince5433/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
