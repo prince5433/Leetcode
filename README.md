@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/prince5433/Leetcode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/prince5433/Leetcode/tree/master/0605-can-place-flowers) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/prince5433/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Simulation
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/prince5433/Leetcode/tree/master/1925-count-square-sum-triples) |
+## Hash Table
+|  |
+| ------- |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 <!---LeetCode Topics End-->
