@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/prince5433/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prince5433/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/prince5433/Leetcode/tree/master/1925-count-square-sum-triples) |
 ## String
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3583-count-special-triplets](https://github.com/prince5433/Leetcode/tree/master/3583-count-special-triplets) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/prince5433/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
