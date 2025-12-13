@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/prince5433/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3115-maximum-prime-difference](https://github.com/prince5433/Leetcode/tree/master/3115-maximum-prime-difference) |
+| [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prince5433/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince5433/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/prince5433/Leetcode/tree/master/1447-simplified-fractions) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/prince5433/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prince5433/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prince5433/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince5433/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
