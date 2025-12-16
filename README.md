@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/prince5433/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prince5433/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/prince5433/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/prince5433/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/prince5433/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prince5433/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/prince5433/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/prince5433/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/prince5433/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/prince5433/Leetcode/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prince5433/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/prince5433/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/prince5433/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3583-count-special-triplets](https://github.com/prince5433/Leetcode/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince5433/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
