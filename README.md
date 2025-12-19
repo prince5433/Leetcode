@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/prince5433/Leetcode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/prince5433/Leetcode/tree/master/0605-can-place-flowers) |
 | [1534-count-good-triplets](https://github.com/prince5433/Leetcode/tree/master/1534-count-good-triplets) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/prince5433/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/prince5433/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince5433/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prince5433/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/prince5433/Leetcode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/prince5433/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prince5433/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/prince5433/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/prince5433/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/prince5433/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prince5433/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/prince5433/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Linked List
 |  |
