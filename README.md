@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/prince5433/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/prince5433/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/prince5433/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/prince5433/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/prince5433/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/prince5433/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/prince5433/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/prince5433/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/prince5433/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/prince5433/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/prince5433/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
