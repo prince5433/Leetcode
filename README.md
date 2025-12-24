@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/prince5433/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/prince5433/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3340-check-balanced-string](https://github.com/prince5433/Leetcode/tree/master/3340-check-balanced-string) |
 | [3527-find-the-most-common-response](https://github.com/prince5433/Leetcode/tree/master/3527-find-the-most-common-response) |
 ## Bit Manipulation
 |  |
