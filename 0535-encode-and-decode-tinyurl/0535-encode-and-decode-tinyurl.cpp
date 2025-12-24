@@ -1,23 +1,22 @@
 class Solution {
 public:
+    // Map to store: id -> original long URL
+    unordered_map<int, string> mp;
 
-    unordered_map<int,string> mp;
-    int id=0;
+    // Unique ID for each URL
+    int id = 0;
 
-    // Encodes a URL to a shortened URL.
+    // Encodes a URL to a shortened URL
     string encode(string longUrl) {
-        id++;
-        mp[id]=longUrl;
-        return "http://tinyurl.com/"+to_string(id);
+        id++;                 // generate new id
+        mp[id] = longUrl;     // store mapping
+        return "http://tinyurl.com/" + to_string(id); // create short URL
     }
 
-    // Decodes a shortened URL to its original URL.
+    // Decodes a shortened URL to its original URL
     string decode(string shortUrl) {
-        int id=stoi(shortUrl.substr(19));
-        return mp[id];
+        // remove "http://tinyurl.com/" (19 chars) and get id
+        int id = stoi(shortUrl.substr(19));
+        return mp[id];        // return original URL
     }
 };
-
-// Your Solution object will be instantiated and called as such:
-// Solution solution;
-// solution.decode(solution.encode(url));
