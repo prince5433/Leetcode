@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/prince5433/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/prince5433/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/prince5433/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/prince5433/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/prince5433/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/prince5433/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/prince5433/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3527-find-the-most-common-response](https://github.com/prince5433/Leetcode/tree/master/3527-find-the-most-common-response) |
 ## Bit Manipulation
 |  |
