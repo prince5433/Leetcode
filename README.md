@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/prince5433/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/prince5433/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/prince5433/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3115-maximum-prime-difference](https://github.com/prince5433/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/prince5433/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3527-find-the-most-common-response](https://github.com/prince5433/Leetcode/tree/master/3527-find-the-most-common-response) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/prince5433/Leetcode/tree/master/1029-two-city-scheduling) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/prince5433/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sorting
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/prince5433/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/prince5433/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3536-maximum-product-of-two-digits](https://github.com/prince5433/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Math
