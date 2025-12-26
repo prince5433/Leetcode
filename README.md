@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/prince5433/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/prince5433/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2315-count-asterisks](https://github.com/prince5433/Leetcode/tree/master/2315-count-asterisks) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/prince5433/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prince5433/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/prince5433/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/prince5433/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/prince5433/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/prince5433/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Linked List
 |  |
