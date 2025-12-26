@@ -2,52 +2,41 @@ class Solution {
 public:
     int bestClosingTime(string customers) {
 
-        int n = customers.length();   // total hours (length of string)
+        int penalty = 0;
 
-        int pre[n+1]; // pre[i] = penalty for 'N' customers BEFORE i-th hour
-        int suf[n+1]; // suf[i] = penalty for 'Y' customers FROM i-th hour to end
-
-        // -------------------- PREFIX ARRAY --------------------
-        // If shop is open before i
-        // 'N' customer aaye → penalty +1
-        pre[0] = 0;   // 0 hour open → no penalty
-
-        for(int i = 0; i < n; i++){
-            // agar ith hour pe customer 'N' hai
-            // to open rakhne ka penalty lagega
-            pre[i+1] = pre[i] + ((customers[i] == 'N') ? 1 : 0);
+        // Step 1: Assume shop is closed the whole day
+        // Penalty will be number of 'Y' (customers come but shop is closed)
+        for(char c : customers) {
+            if(c == 'Y') penalty++;
         }
 
-        // -------------------- SUFFIX ARRAY --------------------
-        // If shop is closed from i
-        // 'Y' customer aaye → penalty +1
-        suf[n] = 0;   // n ke baad koi hour nahi → no penalty
+        // Store minimum penalty found so far
+        int minPenalty = penalty;
 
-        for(int i = n-1; i >= 0; i--){
-            // agar ith hour pe customer 'Y' hai
-            // aur shop band hai → penalty lagega
-            suf[i] = suf[i+1] + ((customers[i] == 'Y') ? 1 : 0);
+        // Best time to close shop (initially 0 = closed all day)
+        int bestTime = 0;
+
+        // Step 2: Move closing time from left to right
+        for(int i = 0; i < customers.size(); i++) {
+
+            // If customer comes ('Y') and we keep shop open
+            // then we remove 1 penalty
+            if(customers[i] == 'Y')
+                penalty--;
+
+            // If no customer ('N') and shop is open
+            // then we add 1 penalty
+            else
+                penalty++;
+
+            // Check if current penalty is minimum
+            if(penalty < minPenalty) {
+                minPenalty = penalty;   // update minimum penalty
+                bestTime = i + 1;       // closing time is next hour
+            }
         }
 
-        // -------------------- FIND MIN PENALTY --------------------
-        int minPen = n;  // max possible penalty n ho sakti hai
-
-        for(int i = 0; i <= n; i++){
-            // total penalty at hour i:
-            // open before i (pre[i]) + closed after i (suf[i])
-            pre[i] += suf[i];
-
-            int pen = pre[i];
-            minPen = min(minPen, pen); // minimum penalty store
-        }
-
-        // -------------------- FIRST BEST HOUR --------------------
-        // pehla hour jahan minimum penalty mile wahi answer
-        for(int i = 0; i <= n; i++){
-            if(pre[i] == minPen)
-                return i;
-        }
-
-        return n; // fallback (practically kabhi nahi aayega)
+        // Return the best closing time
+        return bestTime;
     }
 };
