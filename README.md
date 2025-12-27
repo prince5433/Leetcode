@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/prince5433/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/prince5433/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1370-increasing-decreasing-string](https://github.com/prince5433/Leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/prince5433/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1447-simplified-fractions](https://github.com/prince5433/Leetcode/tree/master/1447-simplified-fractions) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prince5433/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/prince5433/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
