@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/prince5433/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/prince5433/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1029-two-city-scheduling](https://github.com/prince5433/Leetcode/tree/master/1029-two-city-scheduling) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prince5433/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1534-count-good-triplets](https://github.com/prince5433/Leetcode/tree/master/1534-count-good-triplets) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/prince5433/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/prince5433/Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prince5433/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/prince5433/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Greedy
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/prince5433/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prince5433/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
