@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/prince5433/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/prince5433/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [3019-number-of-changing-keys](https://github.com/prince5433/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/prince5433/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/prince5433/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
