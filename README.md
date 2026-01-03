@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/prince5433/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/prince5433/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/prince5433/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/prince5433/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/prince5433/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/prince5433/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2315-count-asterisks](https://github.com/prince5433/Leetcode/tree/master/2315-count-asterisks) |
