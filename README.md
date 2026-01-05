@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prince5433/Leetcode/tree/master/0066-plus-one) |
 | [0495-teemo-attacking](https://github.com/prince5433/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/prince5433/Leetcode/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/prince5433/Leetcode/tree/master/0605-can-place-flowers) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince5433/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/prince5433/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prince5433/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/prince5433/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/prince5433/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/prince5433/Leetcode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/prince5433/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0709-to-lower-case](https://github.com/prince5433/Leetcode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/prince5433/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/prince5433/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/prince5433/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/prince5433/Leetcode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/prince5433/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prince5433/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince5433/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
