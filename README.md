@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/prince5433/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3340-check-balanced-string](https://github.com/prince5433/Leetcode/tree/master/3340-check-balanced-string) |
 | [3527-find-the-most-common-response](https://github.com/prince5433/Leetcode/tree/master/3527-find-the-most-common-response) |
+| [3798-largest-even-number](https://github.com/prince5433/Leetcode/tree/master/3798-largest-even-number) |
 ## Bit Manipulation
 |  |
 | ------- |
