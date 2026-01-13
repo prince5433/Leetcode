@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/prince5433/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prince5433/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/prince5433/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/prince5433/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/prince5433/Leetcode/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prince5433/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prince5433/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/prince5433/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince5433/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/prince5433/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prince5433/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/prince5433/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince5433/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/prince5433/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prince5433/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
