@@ -1,25 +1,22 @@
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
-        vector<int> miss;          // missing positive numbers store karne ke liye
-        int curr = 1;              // current positive number (1 se start)
-        int i = 0;                 // arr ka pointer
+        int lo = 0, hi = arr.size();      // binary search range [0, n]
 
-        // jab tak k missing numbers na mil jaye
-        while (miss.size() < k) {
+        while (lo < hi) {
+            int mid = lo + (hi - lo) / 2; // mid index (safe, no overflow)
 
-            // agar curr array me present hai
-            if (i < arr.size() && arr[i] == curr) {
-                i++;               // array pointer aage badhao
-            } 
-            // warna curr missing hai
-            else {
-                miss.push_back(curr); // missing number store karo
+            // missing numbers till index mid
+            // missing = arr[mid] - (mid + 1)
+            if (arr[mid] - (mid + 1) >= k) {
+                hi = mid;                 // answer mid ya left side me ho sakta hai
+            } else {
+                lo = mid + 1;             // answer right side me hoga
             }
-
-            curr++;                // next positive number
         }
 
-        return miss[k - 1];        // k-th missing positive number
+        // lo = first index jahan missing >= k
+        // actual k-th missing number = lo + k
+        return lo + k;
     }
 };
