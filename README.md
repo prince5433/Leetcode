@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/prince5433/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/prince5433/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince5433/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/prince5433/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/prince5433/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince5433/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prince5433/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/prince5433/Leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/prince5433/Leetcode/tree/master/0605-can-place-flowers) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/prince5433/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/prince5433/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prince5433/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
