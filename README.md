@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prince5433/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/prince5433/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince5433/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/prince5433/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/prince5433/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/prince5433/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prince5433/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/prince5433/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince5433/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince5433/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prince5433/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/prince5433/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/prince5433/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince5433/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/prince5433/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prince5433/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prince5433/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/prince5433/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince5433/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2336-smallest-number-in-infinite-set](https://github.com/prince5433/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/prince5433/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/prince5433/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
