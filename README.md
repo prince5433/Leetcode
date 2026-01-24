@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/prince5433/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prince5433/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/prince5433/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince5433/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/prince5433/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/prince5433/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/prince5433/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/prince5433/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/prince5433/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/prince5433/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2315-count-asterisks](https://github.com/prince5433/Leetcode/tree/master/2315-count-asterisks) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/prince5433/Leetcode/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/prince5433/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/prince5433/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prince5433/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prince5433/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
