@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/prince5433/Leetcode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
 | [0414-third-maximum-number](https://github.com/prince5433/Leetcode/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/prince5433/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/prince5433/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prince5433/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/prince5433/Leetcode/tree/master/0409-longest-palindrome) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/prince5433/Leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [3799-word-squares-ii](https://github.com/prince5433/Leetcode/tree/master/3799-word-squares-ii) |
 ## Breadth-First Search
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prince5433/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/prince5433/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/prince5433/Leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prince5433/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince5433/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
