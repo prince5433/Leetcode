@@ -1,43 +1,36 @@
 class Solution {
 public:
-    // DFS function to traverse the tree
-    // aur saare node values ko vector me store karne ke liye
-    void dfs(TreeNode* root, vector<int>& v) {
-        // base case: agar node null hai to return
+//better sc
+    // ans second minimum value ko store karega
+    // initially bahut badi value rakhi hai
+    long ans = LONG_MAX;
+
+    // DFS function jo tree traverse karta hai
+    void dfs(TreeNode* root, int firstMin) {
+        // base case: agar node null hai
         if(!root) return;
 
-        // current node ki value vector me daal do
-        v.push_back(root->val);
+        // agar current node ki value
+        // first minimum se badi hai
+        // aur ab tak ke answer se chhoti hai
+        // to answer update kar do
+        if(root->val > firstMin && root->val < ans)
+            ans = root->val;
 
         // left subtree traverse karo
-        dfs(root->left, v);
+        dfs(root->left, firstMin);
 
         // right subtree traverse karo
-        dfs(root->right, v);
+        dfs(root->right, firstMin);
     }
 
     int findSecondMinimumValue(TreeNode* root) {
-        // saare node values store karne ke liye vector
-        vector<int> v;
+        // root ka value hi minimum hota hai (problem ki property)
+        // DFS call kar rahe hain
+        dfs(root, root->val);
 
-        // DFS traversal call
-        dfs(root, v);
-
-        // vector ko sort kar diya
-        sort(v.begin(), v.end());
-
-        // smallest value (minimum) store kar li
-        int x = v[0];
-
-        // vector me traverse karke
-        // minimum se badi pehli value dhundh rahe hain
-        for(auto it : v) {
-            if(it > x) 
-                return it;   // wahi second minimum hoga
-        }
-
-        // agar koi value minimum se badi mili hi nahi
-        // matlab second minimum exist nahi karta
-        return -1;
+        // agar ans update hua hai to wahi second minimum
+        // warna second minimum exist nahi karta
+        return ans == LONG_MAX ? -1 : ans;
     }
 };
