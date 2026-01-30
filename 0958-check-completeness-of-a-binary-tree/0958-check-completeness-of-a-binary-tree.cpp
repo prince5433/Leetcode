@@ -1,37 +1,33 @@
 class Solution {
 public:
-//bfs
-    // Function to check if a binary tree is complete using BFS
+//dfs
+    // Count total number of nodes in the tree
+    int countNodes(TreeNode* root) {
+        if(!root) return 0;
+        return 1 + countNodes(root->left) + countNodes(root->right);
+    }
+
+    // DFS to check completeness using index positions
+    bool dfs(TreeNode* root, int index, int n) {
+
+        // NULL node is valid
+        if(!root) return true;
+
+        // If index exceeds total nodes → gap found
+        if(index >= n) return false;
+
+        // Check left and right subtrees
+        return dfs(root->left, 2 * index + 1, n) &&
+               dfs(root->right, 2 * index + 2, n);
+    }
+
+    // Main function to check if tree is complete
     bool isCompleteTree(TreeNode* root) {
 
-        // Queue for level order traversal
-        queue<TreeNode*> q;
-        q.push(root);
+        // Total nodes count
+        int n = countNodes(root);
 
-        // Flag to mark if NULL node has been seen
-        bool seenNull = false;
-
-        // Traverse level by level
-        while(!q.empty()) {
-            TreeNode* node = q.front();
-            q.pop();
-
-            // If NULL node is found
-            if(node == NULL) {
-                // After this, no non-NULL node should appear
-                seenNull = true;
-            }
-            else {
-                // If we already saw NULL and now found a node → not complete
-                if(seenNull) return false;
-
-                // Push left and right children (even if they are NULL)
-                q.push(node->left);
-                q.push(node->right);
-            }
-        }
-
-        // Tree satisfies complete binary tree property
-        return true;
+        // Start DFS with root index = 0
+        return dfs(root, 0, n);
     }
 };
