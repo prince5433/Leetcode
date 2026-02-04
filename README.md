@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/prince5433/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prince5433/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2027-minimum-moves-to-convert-string](https://github.com/prince5433/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2103-rings-and-rods](https://github.com/prince5433/Leetcode/tree/master/2103-rings-and-rods) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/prince5433/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/prince5433/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/prince5433/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/prince5433/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prince5433/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/prince5433/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2103-rings-and-rods](https://github.com/prince5433/Leetcode/tree/master/2103-rings-and-rods) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/prince5433/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/prince5433/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2336-smallest-number-in-infinite-set](https://github.com/prince5433/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
