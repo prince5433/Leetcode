@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/prince5433/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prince5433/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/prince5433/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3799-word-squares-ii](https://github.com/prince5433/Leetcode/tree/master/3799-word-squares-ii) |
 ## Simulation
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/prince5433/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/prince5433/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/prince5433/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/prince5433/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prince5433/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/prince5433/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Combinatorics
 |  |
 | ------- |
