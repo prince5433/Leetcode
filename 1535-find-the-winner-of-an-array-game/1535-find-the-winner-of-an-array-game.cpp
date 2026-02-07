@@ -27,7 +27,7 @@ public:
             } else {
                 // Naya element jeeta, wahi current winner
                 curr = arr[i];
-                win[curr] = 1;
+                win[curr]++;
             }
 
             // Jaise hi kisi element ke k consecutive wins ho jaye
