@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+//method 1 using lcs
 vector<vector<int>> dp;   // 2D dp table for memoization
 
 // LCS function (Top Down)
