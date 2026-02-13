@@ -1,40 +1,34 @@
 class Solution {
 public:
 
-// Bottom-up DP (Tabulation) function
-// dp[i] store karega ith Fibonacci number
-int fibo(int n, vector<int> &dp){
+// Recursive function with memoization
+// dp[n] store karega nth Fibonacci number
+int solve(int n, vector<int> &dp){
 
     // Base case:
     // fib(0) = 0
     // fib(1) = 1
-    if(n <= 1) 
+    if(n <= 1)
         return n;
 
-    // Initialize base values in dp array
-    dp[0] = 0;
-    dp[1] = 1;
+    // Agar already calculate ho chuka hai
+    // to dp se directly return karo
+    if(dp[n] != -1)
+        return dp[n];
 
-    // Build Fibonacci values from 2 to n
-    // using previously computed values
-    for(int i = 2; i <= n; i++){
-
-        // Fibonacci relation:
-        // fib(i) = fib(i-1) + fib(i-2)
-        dp[i] = dp[i-1] + dp[i-2];
-    }
-
-    // Return nth Fibonacci number
-    return dp[n];
+    // Recursive relation:
+    // fib(n) = fib(n-1) + fib(n-2)
+    // aur result dp me store kar do
+    return dp[n] = solve(n-1, dp) + solve(n-2, dp);
 }
 
 int fib(int n) {
 
-    // Create dp array of size n+1
-    // dp[i] will store ith Fibonacci number
-    vector<int> dp(n+1);
+    // dp array initialize with -1
+    // -1 means not calculated yet
+    vector<int> dp(n+1, -1);
 
-    // Call bottom-up function
-    return fibo(n, dp);
+    // Call recursive memo function
+    return solve(n, dp);
 }
 };
