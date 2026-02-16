@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prince5433/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prince5433/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/prince5433/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/prince5433/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/prince5433/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince5433/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prince5433/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/prince5433/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/prince5433/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1603-design-parking-system](https://github.com/prince5433/Leetcode/tree/master/1603-design-parking-system) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/prince5433/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince5433/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/prince5433/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2390-removing-stars-from-a-string](https://github.com/prince5433/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/prince5433/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prince5433/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/prince5433/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/prince5433/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/prince5433/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/prince5433/Leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
