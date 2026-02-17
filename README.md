@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/prince5433/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prince5433/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prince5433/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0885-spiral-matrix-iii](https://github.com/prince5433/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/prince5433/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince5433/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/prince5433/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/prince5433/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/prince5433/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/prince5433/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0885-spiral-matrix-iii](https://github.com/prince5433/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/prince5433/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/prince5433/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1603-design-parking-system](https://github.com/prince5433/Leetcode/tree/master/1603-design-parking-system) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/prince5433/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/prince5433/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0980-unique-paths-iii](https://github.com/prince5433/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prince5433/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/prince5433/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
