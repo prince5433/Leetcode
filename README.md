@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/prince5433/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/prince5433/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prince5433/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3033-modify-the-matrix](https://github.com/prince5433/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince5433/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3115-maximum-prime-difference](https://github.com/prince5433/Leetcode/tree/master/3115-maximum-prime-difference) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/prince5433/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/prince5433/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [3033-modify-the-matrix](https://github.com/prince5433/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/prince5433/Leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Stack
 |  |
