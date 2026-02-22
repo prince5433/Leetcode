@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prince5433/Leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/prince5433/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/prince5433/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/prince5433/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/prince5433/Leetcode/tree/master/0461-hamming-distance) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/prince5433/Leetcode/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/prince5433/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
