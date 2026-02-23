@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/prince5433/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/prince5433/Leetcode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/prince5433/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/prince5433/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/prince5433/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince5433/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/prince5433/Leetcode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/prince5433/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/prince5433/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/prince5433/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince5433/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0804-unique-morse-code-words](https://github.com/prince5433/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prince5433/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/prince5433/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/prince5433/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prince5433/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prince5433/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
