@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/prince5433/Leetcode/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/prince5433/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/prince5433/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/prince5433/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/prince5433/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince5433/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/prince5433/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/prince5433/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/prince5433/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prince5433/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/prince5433/Leetcode/tree/master/0409-longest-palindrome) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince5433/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/prince5433/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/prince5433/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/prince5433/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prince5433/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/prince5433/Leetcode/tree/master/0409-longest-palindrome) |
