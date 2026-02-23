@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/prince5433/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1447-simplified-fractions](https://github.com/prince5433/Leetcode/tree/master/1447-simplified-fractions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prince5433/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince5433/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1668-maximum-repeating-substring](https://github.com/prince5433/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prince5433/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/prince5433/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/prince5433/Leetcode/tree/master/0868-binary-gap) |
 | [0980-unique-paths-iii](https://github.com/prince5433/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prince5433/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince5433/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prince5433/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/prince5433/Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/prince5433/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/prince5433/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-increasing-decreasing-string](https://github.com/prince5433/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prince5433/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince5433/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prince5433/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/prince5433/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2103-rings-and-rods](https://github.com/prince5433/Leetcode/tree/master/2103-rings-and-rods) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/prince5433/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/prince5433/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince5433/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Matrix
 |  |
 | ------- |
@@ -717,4 +721,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/prince5433/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/prince5433/Leetcode/tree/master/0509-fibonacci-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince5433/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
