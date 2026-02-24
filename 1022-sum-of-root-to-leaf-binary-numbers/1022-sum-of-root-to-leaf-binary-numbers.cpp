@@ -1,26 +1,53 @@
 class Solution {
 public:
-    // DFS function jo root se leaf tak binary number build karta hai
-    int dfs(TreeNode* root, int curr) {
 
-        // base case: agar node null hai to 0 return karo
-        if(!root) return 0;
+    // DFS to collect all root-to-leaf binary paths
+    void dfs(TreeNode* root, string path, vector<string>& paths) {
+        if(!root) return;
 
-        // current binary number update karo
-        // curr * 2  -> left shift
-        // + root->val -> current bit (0 ya 1) add
-        curr = curr * 2 + root->val;
+        // Current node ka bit add karo
+        path += to_string(root->val);
 
-        // agar leaf node hai (root-to-leaf path complete)
-        if(!root->left && !root->right)
-            return curr;   // is path ka decimal value return
+        // Agar leaf node hai
+        if(!root->left && !root->right) {
+            paths.push_back(path);
+            return;
+        }
 
-        // left aur right subtree se aane wale sums ko add karo
-        return dfs(root->left, curr) + dfs(root->right, curr);
+        // Left aur right subtree explore karo
+        dfs(root->left, path, paths);
+        dfs(root->right, path, paths);
+    }
+
+    // Right to Left binary to decimal conversion
+    int binaryToDecimal(string s) {
+        int n = s.size();
+        int power = 0;
+        int num = 0;
+
+        for(int i = n - 1; i >= 0; i--) {
+            if(s[i] == '1') {
+                num += (1 << power);   // 2^power
+            }
+            power++;
+        }
+
+        return num;
     }
 
     int sumRootToLeaf(TreeNode* root) {
-        // DFS start karo initial value 0 ke saath
-        return dfs(root, 0);
+        vector<string> paths;
+
+        // Step 1: Collect all binary paths
+        dfs(root, "", paths);
+
+        int total = 0;
+
+        // Step 2: Convert each path to decimal
+        for(string s : paths) {
+            total += binaryToDecimal(s);
+        }
+
+        return total;
     }
 };
