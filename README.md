@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/prince5433/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/prince5433/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2562-find-the-array-concatenation-value](https://github.com/prince5433/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/prince5433/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/prince5433/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/prince5433/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/prince5433/Leetcode/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/prince5433/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/prince5433/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/prince5433/Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/prince5433/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/prince5433/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/prince5433/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/prince5433/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/prince5433/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/prince5433/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/prince5433/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/prince5433/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
