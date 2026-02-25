@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/prince5433/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/prince5433/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prince5433/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3011-find-if-array-can-be-sorted](https://github.com/prince5433/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3033-modify-the-matrix](https://github.com/prince5433/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince5433/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/prince5433/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prince5433/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3011-find-if-array-can-be-sorted](https://github.com/prince5433/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince5433/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3536-maximum-product-of-two-digits](https://github.com/prince5433/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/prince5433/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/prince5433/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/prince5433/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3011-find-if-array-can-be-sorted](https://github.com/prince5433/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/prince5433/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/prince5433/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/prince5433/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
