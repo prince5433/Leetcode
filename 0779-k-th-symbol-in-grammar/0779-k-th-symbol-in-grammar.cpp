@@ -2,39 +2,25 @@ class Solution {
 public:
     int kthGrammar(int n, int k) {
         
-        // Base case:
-        // First row is always "0"
+        // Base case
+        // First row has only one element: 0
         if(n == 1) 
             return 0;
         
-        // If k is even
-        if(k % 2 == 0) {
-            
-            // Even position means it came from
-            // second child of parent
-            // Parent index = k/2
-            
-            int prevAns = kthGrammar(n - 1, k / 2);
-            
-            // Even child is always FLIPPED version of parent
-            // 0 -> 1
-            // 1 -> 0
-            if(prevAns == 0) 
-                return 1;
-            else 
-                return 0;
-        } 
-        else { 
-            // If k is odd
-            
-            // Odd position means it came from
-            // first child of parent
-            // Parent index = k/2 + 1
-            
-            int prevAns = kthGrammar(n - 1, k / 2 + 1);
-            
-            // Odd child is SAME as parent
-            return prevAns;
-        }
+        // Length of current row = 2^(n-1)
+        int len = (1 << (n - 1));
+        
+        // Middle index divides left & right half
+        int mid = len / 2;
+        
+        // If k lies in left half
+        // It is exactly same as previous row
+        if(k <= mid) 
+            return kthGrammar(n - 1, k);
+        
+        // If k lies in right half
+        // It is flipped version of corresponding left element
+        else 
+            return 1 - kthGrammar(n - 1, k - mid);
     }
 };
