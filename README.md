@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/prince5433/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prince5433/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/prince5433/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/prince5433/Leetcode/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2678-number-of-senior-citizens](https://github.com/prince5433/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prince5433/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/prince5433/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
