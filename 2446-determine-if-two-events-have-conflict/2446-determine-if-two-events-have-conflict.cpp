@@ -18,7 +18,7 @@ public:
             int time=60*hr+mi;
             t2.push_back(time);
         }
-   if(t1[0] <= t2[1] && t2[0] <= t1[1]) return true;
+   if((t2[0]>=t1[0] && t2[0]<=t1[1])||(t1[0]>=t2[0] && t1[0]<=t2[1])) return true;
         else return false;
     }
 };
