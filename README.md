@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/prince5433/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/prince5433/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/prince5433/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/prince5433/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/prince5433/Leetcode/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/prince5433/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0495-teemo-attacking](https://github.com/prince5433/Leetcode/tree/master/0495-teemo-attacking) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/prince5433/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/prince5433/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/prince5433/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/prince5433/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prince5433/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/prince5433/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/prince5433/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prince5433/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/prince5433/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/prince5433/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/prince5433/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prince5433/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prince5433/Leetcode/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/prince5433/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0268-missing-number](https://github.com/prince5433/Leetcode/tree/master/0268-missing-number) |
 | [0477-total-hamming-distance](https://github.com/prince5433/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/prince5433/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/prince5433/Leetcode/tree/master/0509-fibonacci-number) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prince5433/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/prince5433/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/prince5433/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/prince5433/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/prince5433/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/prince5433/Leetcode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/prince5433/Leetcode/tree/master/0477-total-hamming-distance) |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince5433/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/prince5433/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/prince5433/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prince5433/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/prince5433/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prince5433/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/prince5433/Leetcode/tree/master/0409-longest-palindrome) |
