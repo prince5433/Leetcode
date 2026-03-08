@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/prince5433/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prince5433/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prince5433/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1980-find-unique-binary-string](https://github.com/prince5433/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prince5433/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/prince5433/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/prince5433/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/prince5433/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prince5433/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/prince5433/Leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1980-find-unique-binary-string](https://github.com/prince5433/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/prince5433/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prince5433/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2027-minimum-moves-to-convert-string](https://github.com/prince5433/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prince5433/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince5433/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prince5433/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/prince5433/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/prince5433/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2103-rings-and-rods](https://github.com/prince5433/Leetcode/tree/master/2103-rings-and-rods) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/prince5433/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/prince5433/Leetcode/tree/master/0980-unique-paths-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/prince5433/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1219-path-with-maximum-gold](https://github.com/prince5433/Leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1980-find-unique-binary-string](https://github.com/prince5433/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3799-word-squares-ii](https://github.com/prince5433/Leetcode/tree/master/3799-word-squares-ii) |
 ## Breadth-First Search
 |  |
