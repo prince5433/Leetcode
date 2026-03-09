@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/prince5433/Leetcode/tree/master/0155-min-stack) |
 | [0535-encode-and-decode-tinyurl](https://github.com/prince5433/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1603-design-parking-system](https://github.com/prince5433/Leetcode/tree/master/1603-design-parking-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/prince5433/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/prince5433/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/prince5433/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/prince5433/Leetcode/tree/master/0844-backspace-string-compare) |
