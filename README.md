@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prince5433/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/prince5433/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/prince5433/Leetcode/tree/master/1390-four-divisors) |
+| [1395-count-number-of-teams](https://github.com/prince5433/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prince5433/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prince5433/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/prince5433/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/prince5433/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/prince5433/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prince5433/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1395-count-number-of-teams](https://github.com/prince5433/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/prince5433/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1668-maximum-repeating-substring](https://github.com/prince5433/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prince5433/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/prince5433/Leetcode/tree/master/1395-count-number-of-teams) |
 | [3719-longest-balanced-subarray-i](https://github.com/prince5433/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Database
 |  |
@@ -814,4 +817,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prince5433/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/prince5433/Leetcode/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
