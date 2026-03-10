@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/prince5433/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1219-path-with-maximum-gold](https://github.com/prince5433/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince5433/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/prince5433/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/prince5433/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prince5433/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prince5433/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/prince5433/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/prince5433/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0885-spiral-matrix-iii](https://github.com/prince5433/Leetcode/tree/master/0885-spiral-matrix-iii) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/prince5433/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/prince5433/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/prince5433/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/prince5433/Leetcode/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince5433/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prince5433/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/prince5433/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/prince5433/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1370-increasing-decreasing-string](https://github.com/prince5433/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prince5433/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince5433/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/prince5433/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0980-unique-paths-iii](https://github.com/prince5433/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/prince5433/Leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/prince5433/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prince5433/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/prince5433/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prince5433/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
