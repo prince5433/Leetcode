@@ -6,7 +6,7 @@ public:
 
     int minDays(int n) {
         // Base case: 0 oranges = 0 days, 1 orange = 1 day
-        if (n <= 1) return n;
+        if (n <= 2) return n;
 
         // Memoization check
         if (dp.count(n)) return dp[n];
