@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/prince5433/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1416-restore-the-array](https://github.com/prince5433/Leetcode/tree/master/1416-restore-the-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/prince5433/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/prince5433/Leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1668-maximum-repeating-substring](https://github.com/prince5433/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prince5433/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/prince5433/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/prince5433/Leetcode/tree/master/0509-fibonacci-number) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/prince5433/Leetcode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Rolling Hash
 |  |
 | ------- |
