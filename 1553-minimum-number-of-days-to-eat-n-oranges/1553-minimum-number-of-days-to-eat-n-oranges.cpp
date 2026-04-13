@@ -5,7 +5,7 @@ public:
     unordered_map<int, int> dp;
 
     int minDays(int n) {
-        // Base case: 0 oranges = 0 days, 1 orange = 1 day
+        // Base case: 0 oranges = 0 days, 1 orange = 1 day 2oranges=2day
         if (n <= 2) return n;
 
         // Memoization check
