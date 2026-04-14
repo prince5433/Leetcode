@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/prince5433/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2848-points-that-intersect-with-cars](https://github.com/prince5433/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/prince5433/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/prince5433/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prince5433/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/prince5433/Leetcode/tree/master/2923-find-champion-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/prince5433/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/prince5433/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prince5433/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/prince5433/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/prince5433/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/prince5433/Leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prince5433/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Function
