@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/prince5433/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/prince5433/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prince5433/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/prince5433/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prince5433/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prince5433/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prince5433/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prince5433/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/prince5433/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/prince5433/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/prince5433/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prince5433/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
