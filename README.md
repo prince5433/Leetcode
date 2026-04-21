@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/prince5433/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/prince5433/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/prince5433/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince5433/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/prince5433/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/prince5433/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/prince5433/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/prince5433/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/prince5433/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/prince5433/Leetcode/tree/master/0278-first-bad-version) |
