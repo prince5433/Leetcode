@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/prince5433/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prince5433/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prince5433/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2121-intervals-between-identical-elements](https://github.com/prince5433/Leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prince5433/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/prince5433/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prince5433/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/prince5433/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/prince5433/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2103-rings-and-rods](https://github.com/prince5433/Leetcode/tree/master/2103-rings-and-rods) |
+| [2121-intervals-between-identical-elements](https://github.com/prince5433/Leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/prince5433/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/prince5433/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/prince5433/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/prince5433/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/prince5433/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prince5433/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2121-intervals-between-identical-elements](https://github.com/prince5433/Leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/prince5433/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prince5433/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2615-sum-of-distances](https://github.com/prince5433/Leetcode/tree/master/2615-sum-of-distances) |
