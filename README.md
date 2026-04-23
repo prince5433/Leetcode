@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/prince5433/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2562-find-the-array-concatenation-value](https://github.com/prince5433/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/prince5433/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2615-sum-of-distances](https://github.com/prince5433/Leetcode/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/prince5433/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/prince5433/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/prince5433/Leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prince5433/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/prince5433/Leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2615-sum-of-distances](https://github.com/prince5433/Leetcode/tree/master/2615-sum-of-distances) |
 | [2748-number-of-beautiful-pairs](https://github.com/prince5433/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/prince5433/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/prince5433/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prince5433/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/prince5433/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/prince5433/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/prince5433/Leetcode/tree/master/2615-sum-of-distances) |
 | [2848-points-that-intersect-with-cars](https://github.com/prince5433/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/prince5433/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
