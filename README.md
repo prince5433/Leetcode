@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/prince5433/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/prince5433/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/prince5433/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/prince5433/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/prince5433/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3799-word-squares-ii](https://github.com/prince5433/Leetcode/tree/master/3799-word-squares-ii) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prince5433/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/prince5433/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/prince5433/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/prince5433/Leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prince5433/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Stack
 |  |
 | ------- |
