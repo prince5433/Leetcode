@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prince5433/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prince5433/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prince5433/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0788-rotated-digits](https://github.com/prince5433/Leetcode/tree/master/0788-rotated-digits) |
 | [1154-day-of-the-year](https://github.com/prince5433/Leetcode/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince5433/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/prince5433/Leetcode/tree/master/1390-four-divisors) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/prince5433/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/prince5433/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/prince5433/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0788-rotated-digits](https://github.com/prince5433/Leetcode/tree/master/0788-rotated-digits) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/prince5433/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prince5433/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prince5433/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
