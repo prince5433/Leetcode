@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/prince5433/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/prince5433/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/prince5433/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/prince5433/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/prince5433/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/prince5433/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince5433/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/prince5433/Leetcode/tree/master/0844-backspace-string-compare) |
