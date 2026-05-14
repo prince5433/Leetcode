@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/prince5433/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2748-number-of-beautiful-pairs](https://github.com/prince5433/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [2784-check-if-array-is-good](https://github.com/prince5433/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/prince5433/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/prince5433/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/prince5433/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/prince5433/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/prince5433/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2784-check-if-array-is-good](https://github.com/prince5433/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prince5433/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/prince5433/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/prince5433/Leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2615-sum-of-distances](https://github.com/prince5433/Leetcode/tree/master/2615-sum-of-distances) |
 | [2748-number-of-beautiful-pairs](https://github.com/prince5433/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [2784-check-if-array-is-good](https://github.com/prince5433/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/prince5433/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/prince5433/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prince5433/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
