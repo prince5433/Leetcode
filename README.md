@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/prince5433/Leetcode/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/prince5433/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/prince5433/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prince5433/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/prince5433/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2748-number-of-beautiful-pairs](https://github.com/prince5433/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince5433/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prince5433/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/prince5433/Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prince5433/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/prince5433/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/prince5433/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/prince5433/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/prince5433/Leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2540-minimum-common-value](https://github.com/prince5433/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/prince5433/Leetcode/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prince5433/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/prince5433/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/prince5433/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/prince5433/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
