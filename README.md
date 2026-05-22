@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prince5433/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/prince5433/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/prince5433/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prince5433/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prince5433/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prince5433/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/prince5433/Leetcode/tree/master/0222-count-complete-tree-nodes) |
