@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/prince5433/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prince5433/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/prince5433/Leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prince5433/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prince5433/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/prince5433/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prince5433/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/prince5433/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prince5433/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/prince5433/Leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1668-maximum-repeating-substring](https://github.com/prince5433/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prince5433/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/prince5433/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
