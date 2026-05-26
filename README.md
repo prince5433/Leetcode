@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/prince5433/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/prince5433/Leetcode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/prince5433/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/prince5433/Leetcode/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/prince5433/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0709-to-lower-case](https://github.com/prince5433/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/prince5433/Leetcode/tree/master/0796-rotate-string) |
