@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3169-count-days-without-meetings](https://github.com/prince5433/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3206-alternating-groups-i](https://github.com/prince5433/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/prince5433/Leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prince5433/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/prince5433/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/prince5433/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/prince5433/Leetcode/tree/master/3379-transformed-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/prince5433/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/prince5433/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prince5433/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/prince5433/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prince5433/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prince5433/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
