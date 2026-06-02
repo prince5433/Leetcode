@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince5433/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/prince5433/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince5433/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prince5433/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prince5433/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/prince5433/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/prince5433/Leetcode/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/prince5433/Leetcode/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/prince5433/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince5433/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/prince5433/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Greedy
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prince5433/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/prince5433/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince5433/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/prince5433/Leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Sorting
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/prince5433/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3606-coupon-code-validator](https://github.com/prince5433/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince5433/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prince5433/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/prince5433/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3799-word-squares-ii](https://github.com/prince5433/Leetcode/tree/master/3799-word-squares-ii) |
@@ -747,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/prince5433/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/prince5433/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/prince5433/Leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince5433/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prince5433/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Function
 |  |
