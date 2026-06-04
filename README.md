@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prince5433/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince5433/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/prince5433/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/prince5433/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/prince5433/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prince5433/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prince5433/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/prince5433/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-word-squares-ii](https://github.com/prince5433/Leetcode/tree/master/3799-word-squares-ii) |
 ## Hash Table
 |  |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/prince5433/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/prince5433/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bucket Sort
 |  |
 | ------- |
