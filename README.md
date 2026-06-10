@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prince5433/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/prince5433/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/prince5433/Leetcode/tree/master/0268-missing-number) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/prince5433/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/prince5433/Leetcode/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/prince5433/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0495-teemo-attacking](https://github.com/prince5433/Leetcode/tree/master/0495-teemo-attacking) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prince5433/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/prince5433/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/prince5433/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1845-seat-reservation-manager](https://github.com/prince5433/Leetcode/tree/master/1845-seat-reservation-manager) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/prince5433/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
