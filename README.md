@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince5433/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3169-count-days-without-meetings](https://github.com/prince5433/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/prince5433/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/prince5433/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/prince5433/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3606-coupon-code-validator](https://github.com/prince5433/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/prince5433/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prince5433/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/prince5433/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/prince5433/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/prince5433/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prince5433/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince5433/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/prince5433/Leetcode/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prince5433/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3527-find-the-most-common-response](https://github.com/prince5433/Leetcode/tree/master/3527-find-the-most-common-response) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/prince5433/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3606-coupon-code-validator](https://github.com/prince5433/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3798-largest-even-number](https://github.com/prince5433/Leetcode/tree/master/3798-largest-even-number) |
 | [3799-word-squares-ii](https://github.com/prince5433/Leetcode/tree/master/3799-word-squares-ii) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/prince5433/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/prince5433/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3527-find-the-most-common-response](https://github.com/prince5433/Leetcode/tree/master/3527-find-the-most-common-response) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/prince5433/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/prince5433/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3583-count-special-triplets](https://github.com/prince5433/Leetcode/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince5433/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3115-maximum-prime-difference](https://github.com/prince5433/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prince5433/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/prince5433/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince5433/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Heap (Priority Queue)
 |  |
