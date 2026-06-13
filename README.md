@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/prince5433/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/prince5433/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3527-find-the-most-common-response](https://github.com/prince5433/Leetcode/tree/master/3527-find-the-most-common-response) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince5433/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/prince5433/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prince5433/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/prince5433/Leetcode/tree/master/3583-count-special-triplets) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/prince5433/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/prince5433/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/prince5433/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince5433/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/prince5433/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince5433/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/prince5433/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/prince5433/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/prince5433/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince5433/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/prince5433/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Enumeration
 |  |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prince5433/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/prince5433/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince5433/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prince5433/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/prince5433/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -862,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/prince5433/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prince5433/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/prince5433/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince5433/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -896,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prince5433/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prince5433/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/prince5433/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince5433/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
