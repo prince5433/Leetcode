@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/prince5433/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/prince5433/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/prince5433/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince5433/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/prince5433/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/prince5433/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/prince5433/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince5433/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/prince5433/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince5433/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prince5433/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/prince5433/Leetcode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/prince5433/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/prince5433/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/prince5433/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/prince5433/Leetcode/tree/master/0853-car-fleet) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince5433/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/prince5433/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prince5433/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
