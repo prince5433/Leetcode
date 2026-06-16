@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/prince5433/Leetcode/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/prince5433/Leetcode/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/prince5433/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3613-minimize-maximum-component-cost](https://github.com/prince5433/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince5433/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/prince5433/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/prince5433/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3556-sum-of-largest-prime-substrings](https://github.com/prince5433/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/prince5433/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3606-coupon-code-validator](https://github.com/prince5433/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3613-minimize-maximum-component-cost](https://github.com/prince5433/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince5433/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prince5433/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/prince5433/Leetcode/tree/master/0547-number-of-provinces) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prince5433/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3613-minimize-maximum-component-cost](https://github.com/prince5433/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1049,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/prince5433/Leetcode/tree/master/0547-number-of-provinces) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prince5433/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prince5433/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3613-minimize-maximum-component-cost](https://github.com/prince5433/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 ## Quickselect
 |  |
 | ------- |
