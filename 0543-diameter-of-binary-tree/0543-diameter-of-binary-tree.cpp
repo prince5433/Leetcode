@@ -1,60 +1,206 @@
-/**
- * 💡 INTUITION (Soch / Logic kya hai iske peeche?):
- * 
- * Bhai, kisi bhi Binary Tree ka 'Diameter' do nodes ke beech ka sabse lamba path hota hai.
- * Dhyan rakhna, yeh rasta zaroori nahi ki top wali 'root' node se hoke hi guzre. 
- * Woh tree ke kisi neeche wale hisse mein bhi ho sakta hai.
- *
- * Toh solution kya hai? Hum tree ke HAR node par khade hoke 2 sawal puchenge:
- * 1. "Tere left child se sabse lamba rasta (height) kitna aa raha hai?" -> `left`
- * 2. "Tere right child se sabse lamba rasta (height) kitna aa raha hai?" -> `right`
- *
- * 👉 Kisi bhi current node ke through banne wala lamba path kya hoga? = `left + right`
- *
- * Hum ek global variable 'maxDia' banayenge. Har node apna `left + right` check karega,
- * aur agar woh ab tak ke `maxDia` se bada nikla, toh usko update kar dega.
- *
- * Aur DFS function ka kaam kya hai? Woh calculate karke apne parent ko bas apni 
- * "height" wapas karega (return karega), taaki parent apna calculation kar sake.
- * Node ki height = 1 (main khud) + maximum of(meri left height, meri right height).
- * 
- * Yeh ek Bottom-Up (Post-order) approach hai, matlab pehle leaves solve honge fir upar jayenge.
- */
-
 class Solution {
 public:
-    // Yeh hamara global variable hai jo poore tree me sabse maximum diameter ko store karega
-    int maxDia = 0;  
+    // Returns height of tree
+    int levels(TreeNode* root) {
 
-    // DFS function: Yeh kisi node ki "height" return karta hai edges ke terms me.
-    int dfs(TreeNode* root) {
-        
-        // 🛑 BASE CASE: Agar node hi nahi hai (hum patto/leaves ke bhi neeche aagaye hain), 
-        // toh uski height 0 hogi. Yahan se wapas laut jao.
-        if (root == NULL) return 0;  
+        /*
+        Height of empty tree = 0
+        */
+        if (root == NULL)
+            return 0;
 
-        // 🟢 STEP 1: Left bache se pucho ki "teri maximum height kitni hai?"
-        int left = dfs(root->left);
+        /*
+        Height =
 
-        // 🟢 STEP 2: Right bache se pucho ki "teri maximum height kitni hai?"
-        int right = dfs(root->right);
-
-        // 🔥 STEP 3: MAIN LOGIC (Calculate Diameter)
-        // Iss current node ko center maan kar jo path banega, uski length hogi (left + right).
-        // Check karo ki kya yeh naya path purane maxDia se bada hai? Agar haan, toh update karo.
-        maxDia = max(maxDia, left + right);
-
-        // 🔼 STEP 4: Parent ko apni height return karo
-        // Main (current node) apne parent ko bataunga ki meri height kitni hai.
-        // Meri height = 1 (mera apna edge) + mere left aur right me se jo bhi zyada lamba ho.
-        return 1 + max(left, right);
+        1 +
+        maximum height of children
+        */
+        return 1 + max(levels(root->left), levels(root->right));
     }
 
-    // Yeh main function hai jo platform pehle call karega
+    void helper(TreeNode* root, int& maxDia) {
+
+        if (root == NULL)
+            return;
+
+        /*
+        Diameter passing through
+        current node.
+
+        left height
+        +
+        right height
+        */
+        int dia = levels(root->left) + levels(root->right);
+
+        // Update global answer
+        maxDia = max(maxDia, dia);
+
+        // Check left subtree
+        helper(root->left, maxDia);
+
+        // Check right subtree
+        helper(root->right, maxDia);
+    }
+
     int diameterOfBinaryTree(TreeNode* root) {
-        
-        dfs(root);        // DFS start karo. Yeh function chalega aur 'maxDia' ko chup-chaap calculate kar dega.
-        
-        return maxDia;    // Jab poora tree ghoom lenge, toh final maximum value return kar do.
+
+        int maxDia = 0;
+
+        helper(root, maxDia);
+
+        return maxDia;
     }
 };
+
+/*
+---------------- QUICK INTUITION ----------------
+
+Diameter:
+
+Maximum number of edges
+between any two nodes.
+
+------------------------------------------------
+
+Key Observation
+
+For every node:
+
+Possible diameter through node =
+
+height(left)
++
+height(right)
+
+Because longest path may go:
+
+left subtree
+     ↓
+ current node
+     ↓
+right subtree
+
+------------------------------------------------
+
+Example:
+
+        1
+       / \
+      2   3
+     / \
+    4   5
+
+At node 2:
+
+left height = 1
+right height = 1
+
+dia = 2
+
+--------------------------------
+
+At node 1:
+
+left height = 2
+right height = 1
+
+dia = 3
+
+Answer = 3
+
+------------------------------------------------
+
+Dry Run
+
+Node 4:
+
+dia = 0
+
+Node 5:
+
+dia = 0
+
+Node 2:
+
+dia = 1+1 = 2
+
+Node 3:
+
+dia = 0
+
+Node 1:
+
+dia = 2+1 = 3
+
+maxDia = 3
+
+------------------------------------------------
+
+IMPORTANT
+
+This solution is NOT Optimal.
+
+Why?
+
+For every node,
+you are again calling levels().
+
+Height gets recalculated
+many times.
+
+------------------------------------------------
+
+TC
+
+levels() = O(n)
+
+Called for every node.
+
+Total:
+
+O(n²)
+
+------------------------------------------------
+
+SC
+
+Recursion Stack:
+
+O(h)
+
+Worst:
+
+O(n)
+
+Balanced Tree:
+
+O(log n)
+
+------------------------------------------------
+
+Optimization
+
+Compute:
+
+height + diameter
+
+in same DFS.
+
+Then:
+
+TC = O(n)
+
+Pattern:
+
+Postorder DFS
+Tree DP
+
+------------------------------------------------
+
+Pattern Used Here
+
+Binary Tree
+DFS
+Brute Force Diameter
+*/
