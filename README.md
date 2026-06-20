@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/prince5433/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/prince5433/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prince5433/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/prince5433/Leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/prince5433/Leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1871-jump-game-vii](https://github.com/prince5433/Leetcode/tree/master/1871-jump-game-vii) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/prince5433/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/prince5433/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/prince5433/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prince5433/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/prince5433/Leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/prince5433/Leetcode/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/prince5433/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prince5433/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
