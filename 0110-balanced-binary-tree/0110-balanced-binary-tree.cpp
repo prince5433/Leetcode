@@ -1,31 +1,210 @@
 class Solution {
 public:
-    // 🔹 Function to calculate the height (levels) of a binary tree
+    // Returns height of tree
     int levels(TreeNode* root) {
-        if (root == NULL) 
-            return 0; // agar node NULL hai → height 0
-        // height = 1 + max height of left or right subtree
+
+        // Empty tree height = 0
+        if (root == NULL)
+            return 0;
+
+        /*
+        Height =
+        1 + maximum height
+        of left and right subtree
+        */
         return 1 + max(levels(root->left), levels(root->right));
     }
 
-    // 🔹 Function to check if a binary tree is height-balanced
     bool isBalanced(TreeNode* root) {
-        if (root == NULL) 
-            return true; // empty tree is always balanced ✅
 
-        // 🔸 Step 1: calculate height of left and right subtrees
+        /*
+        Balanced Tree:
+
+        For every node,
+
+        |left height - right height| <= 1
+        */
+
+        // Empty tree is balanced
+        if (root == NULL)
+            return true;
+
+        // Height of left subtree
         int lst = levels(root->left);
+
+        // Height of right subtree
         int rst = levels(root->right);
 
-        // 🔸 Step 2: find absolute difference between heights
+        // Height difference
         int diff = abs(lst - rst);
 
-        // 🔸 Step 3: recursively check if left and right subtrees are balanced
-        bool leftBalanced = isBalanced(root->left);
-        bool rightBalanced = isBalanced(root->right);
+        // Check left subtree
+        bool leftbalanced = isBalanced(root->left);
 
-        // 🔸 Step 4: current node is balanced if:
-        //  height difference ≤ 1  &&  both subtrees are balanced
-        return (diff <= 1) && leftBalanced && rightBalanced;
+        // Check right subtree
+        bool rightbalanced = isBalanced(root->right);
+
+        return (diff <= 1) && leftbalanced && rightbalanced;
     }
 };
+
+/*
+---------------- QUICK INTUITION ----------------
+
+A tree is balanced if:
+
+For EVERY node,
+
+|height(left) - height(right)| <= 1
+
+------------------------------------------------
+
+Example:
+
+        3
+       / \
+      9   20
+         /  \
+        15   7
+
+Left Height = 1
+Right Height = 2
+
+Difference = 1
+
+Balanced ✅
+
+------------------------------------------------
+
+Example:
+
+        1
+       /
+      2
+     /
+    3
+
+At root:
+
+Left Height = 2
+Right Height = 0
+
+Difference = 2
+
+Not Balanced ❌
+
+------------------------------------------------
+
+How Code Works?
+
+For every node:
+
+1. Find left height
+2. Find right height
+3. Check difference <= 1
+4. Recursively verify left subtree
+5. Recursively verify right subtree
+
+All conditions true ⇒ Balanced
+
+------------------------------------------------
+
+Dry Run
+
+Tree:
+
+      1
+     / \
+    2   3
+
+Node 2:
+
+diff = 0
+
+Balanced
+
+--------------------------------
+
+Node 3:
+
+diff = 0
+
+Balanced
+
+--------------------------------
+
+Node 1:
+
+left height = 1
+
+right height = 1
+
+diff = 0
+
+Balanced
+
+Answer = true
+
+------------------------------------------------
+
+IMPORTANT
+
+This solution is correct
+but NOT optimal.
+
+Why?
+
+For every node,
+levels() recalculates heights again.
+
+Same heights are computed
+many times.
+
+------------------------------------------------
+
+TC
+
+levels() = O(n)
+
+Called for every node.
+
+Worst Case:
+
+O(n²)
+
+------------------------------------------------
+
+SC
+
+Recursion Stack:
+
+O(h)
+
+Balanced Tree:
+O(log n)
+
+Skewed Tree:
+O(n)
+
+------------------------------------------------
+
+Optimal Approach
+
+Use Postorder DFS.
+
+Return height directly.
+
+If subtree becomes unbalanced,
+return -1.
+
+TC = O(n)
+
+------------------------------------------------
+
+Pattern
+
+Binary Tree
+DFS
+Height Calculation
+Balanced Tree Check
+*/
