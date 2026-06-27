@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/prince5433/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince5433/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0980-unique-paths-iii](https://github.com/prince5433/Leetcode/tree/master/0980-unique-paths-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince5433/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/prince5433/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/prince5433/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prince5433/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/prince5433/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/prince5433/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/prince5433/Leetcode/tree/master/0853-car-fleet) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince5433/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince5433/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/prince5433/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prince5433/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/prince5433/Leetcode/tree/master/0853-car-fleet) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince5433/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/prince5433/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/prince5433/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/prince5433/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince5433/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince5433/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince5433/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prince5433/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -985,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/prince5433/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/prince5433/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/prince5433/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince5433/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince5433/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince5433/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prince5433/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -1051,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince5433/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prince5433/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince5433/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince5433/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Graph Theory
