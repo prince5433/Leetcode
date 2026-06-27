@@ -903,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/prince5433/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/prince5433/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince5433/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince5433/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prince5433/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/prince5433/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prince5433/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/prince5433/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/prince5433/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince5433/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince5433/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prince5433/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/prince5433/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prince5433/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/prince5433/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/prince5433/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince5433/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince5433/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prince5433/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/prince5433/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prince5433/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince5433/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prince5433/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince5433/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Graph Theory
 |  |
