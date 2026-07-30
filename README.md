@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince5433/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/prince5433/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/prince5433/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prince5433/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/prince5433/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prince5433/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/prince5433/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/prince5433/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prince5433/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/prince5433/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/prince5433/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/prince5433/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2937-make-three-strings-equal](https://github.com/prince5433/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prince5433/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/prince5433/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prince5433/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prince5433/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
