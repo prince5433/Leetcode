@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/prince5433/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/prince5433/Leetcode/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/prince5433/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/prince5433/Leetcode/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/prince5433/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/prince5433/Leetcode/tree/master/0500-keyboard-row) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/prince5433/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/prince5433/Leetcode/tree/master/0268-missing-number) |
 | [0477-total-hamming-distance](https://github.com/prince5433/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/prince5433/Leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/prince5433/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/prince5433/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince5433/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/prince5433/Leetcode/tree/master/0486-predict-the-winner) |
 | [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Doubly-Linked List
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/prince5433/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/prince5433/Leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/prince5433/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/prince5433/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/prince5433/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/prince5433/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0788-rotated-digits](https://github.com/prince5433/Leetcode/tree/master/0788-rotated-digits) |
@@ -1061,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/prince5433/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/prince5433/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/prince5433/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/prince5433/Leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prince5433/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prince5433/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
