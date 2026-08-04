@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3674-minimum-operations-to-equalize-array](https://github.com/prince5433/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/prince5433/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/prince5433/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/prince5433/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prince5433/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/prince5433/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince5433/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prince5433/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/prince5433/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/prince5433/Leetcode/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/prince5433/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3799-word-squares-ii](https://github.com/prince5433/Leetcode/tree/master/3799-word-squares-ii) |
 ## Math
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince5433/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/prince5433/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/prince5433/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/prince5433/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prince5433/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/prince5433/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/prince5433/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
