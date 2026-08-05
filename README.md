@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/prince5433/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/prince5433/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0853-car-fleet](https://github.com/prince5433/Leetcode/tree/master/0853-car-fleet) |
+| [0877-stone-game](https://github.com/prince5433/Leetcode/tree/master/0877-stone-game) |
 | [0885-spiral-matrix-iii](https://github.com/prince5433/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/prince5433/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince5433/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prince5433/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prince5433/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/prince5433/Leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/prince5433/Leetcode/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/prince5433/Leetcode/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince5433/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prince5433/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/prince5433/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/prince5433/Leetcode/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/prince5433/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Doubly-Linked List
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prince5433/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/prince5433/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0788-rotated-digits](https://github.com/prince5433/Leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/prince5433/Leetcode/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/prince5433/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prince5433/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prince5433/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1167,4 +1171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prince5433/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/prince5433/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prince5433/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prince5433/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
