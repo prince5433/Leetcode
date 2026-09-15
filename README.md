@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/prince5433/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prince5433/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince5433/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/prince5433/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/prince5433/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prince5433/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince5433/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/prince5433/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prince5433/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/prince5433/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prince5433/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -1007,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/prince5433/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prince5433/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prince5433/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1191,8 +1195,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prince5433/Leetcode/tree/master/0877-stone-game) |
-## DP on Trees
-|  |
-| ------- |
-| [0543-diameter-of-binary-tree](https://github.com/prince5433/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
