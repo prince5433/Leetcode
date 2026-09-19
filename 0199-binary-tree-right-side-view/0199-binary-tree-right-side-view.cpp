@@ -22,6 +22,7 @@ public:
                 TreeNode* temp=qu.front();
                 qu.pop();
                 if(i==sz) ans.push_back(temp->val);
+                //for left side view just do i==1 anf we get the nodes that are on the left to the or left side view
                 if(temp->left) qu.push(temp->left);
                 if(temp->right) qu.push(temp->right);
             }
