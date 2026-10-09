@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/prince5433/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/prince5433/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/prince5433/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/prince5433/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince5433/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/prince5433/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/prince5433/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prince5433/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/prince5433/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2326-spiral-matrix-iv](https://github.com/prince5433/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/prince5433/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/prince5433/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prince5433/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/prince5433/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prince5433/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince5433/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/prince5433/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/prince5433/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/prince5433/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
@@ -919,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/prince5433/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prince5433/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/prince5433/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/prince5433/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/prince5433/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/prince5433/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2643-row-with-maximum-ones](https://github.com/prince5433/Leetcode/tree/master/2643-row-with-maximum-ones) |
