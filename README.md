@@ -1266,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/prince5433/Leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/prince5433/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prince5433/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prince5433/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/prince5433/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/prince5433/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Memoization
