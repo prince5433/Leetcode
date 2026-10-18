@@ -1,98 +1,175 @@
 class MinStack {
 public:
+    // Normal values ke saath encoded values bhi store karenge.
+    // long long use kiya hai taaki encoding ke calculations mein
+    // int range se bahar jaane par overflow ka risk kam ho.
     stack<long long> st;
+
+    // Ye variable hamesha stack ka current minimum store karega.
+    // Iske liye alag minimum stack maintain nahi karna padta.
     long long min;
 
-    // Constructor: initialize minimum as very large value
+    // Constructor: stack create hone par minimum ko
+    // ek bahut badi value se initialize kar rahe hain.
+    // First push ke time actual minimum set ho jayega.
     MinStack() {
         min = LLONG_MAX;
     }
-    
+
     void push(int val) {
+        // Input int hai, lekin calculations long long mein karenge.
         long long x = (long long)val;
 
-        // If stack is empty, first element becomes the minimum
+        // CASE 1: Stack empty hai.
+        // Abhi koi previous minimum nahi hai,
+        // isliye x hi stack ka pehla aur minimum element hoga.
         if (st.size() == 0) {
             st.push(x);
             min = x;
         }
-        // If new value is greater than or equal to current minimum
-        // simply push it normally
+
+        // CASE 2: New value current minimum se greater ya equal hai.
+        // Is value ko encode karne ki zarurat nahi hai,
+        // kyunki isse current minimum change nahi hoga.
         else if (x >= min) {
             st.push(x);
         }
-        // If new value is smaller than current minimum
-        // we store a "fake encoded value" instead of the real value
+
+        // CASE 3: New value current minimum se chhoti hai.
+        // Hume new minimum bhi store karna hai aur purana minimum
+        // bhi future pop() ke liye recover kar paana hai.
         else {
             /*
-            Intuition:
-            We need to remember the previous minimum without using
-            another stack.
+                Maan lo:
+                Previous minimum = oldMin
+                New value = x
 
-            So we push an encoded value = 2*x - min
+                Hum actual x ko directly store karne ke bajaye:
+                encoded = 2*x - oldMin store karte hain.
 
-            This encoded value will always be smaller than the new minimum.
-            Later when we pop it, we can detect that it is encoded and
-            recover the previous minimum.
+                Is encoding ki wajah se encoded value,
+                new minimum x se strictly chhoti hoti hai.
+
+                Proof:
+                x < oldMin
+
+                Isliye:
+                2*x - oldMin < x
+
+                Matlab encoded < min.
+
+                Baad mein agar stack top < current min hua,
+                toh hume pata chal jayega ki top encoded value hai.
             */
+
             st.push(2 * x - min);
-            min = x; // update current minimum
+
+            // Ab x hi naya minimum hai,
+            // kyunki x previous minimum se chhota tha.
+            min = x;
         }
     }
-    
+
     void pop() {
         /*
-        If top element is smaller than current minimum,
-        it means it is an encoded value and represents
-        the point where the minimum was updated.
+            Agar top current minimum se chhota hai,
+            toh iska matlab top normal value nahi,
+            balki encoded value hai.
+
+            Aisa isliye kyunki encoding ke time:
+            encoded = 2*x - oldMin
+            aur encoded < x = current min.
         */
+
         if (st.top() < min) {
 
             /*
-            Intuition:
-            encoded = 2*x - previousMin
-            currentMin = x
+                Encoded value se previous minimum recover karenge.
 
-            previousMin = 2*currentMin - encoded
+                Encoding formula:
+                encoded = 2*currentMin - oldMin
+
+                Rearrange karne par:
+                oldMin = 2*currentMin - encoded
+
+                Isliye purana minimum restore ho jayega.
+                Ye zaroori hai kyunki current minimum wala element
+                ab stack se remove hone wala hai.
             */
+
             long long oldMin = 2 * min - st.top();
-            min = oldMin; // restore previous minimum
+
+            // Previous minimum restore kar do,
+            // taaki pop ke baad min remaining stack ke according correct rahe.
+            min = oldMin;
         }
 
+        // Ab top element remove kar do.
+        // Agar top encoded tha, toh uska previous minimum
+        // remove karne se pehle hi restore kar chuke hain.
         st.pop();
     }
-    
+
     int top() {
 
         /*
-        If top < min, it means top is an encoded value.
-        In that case the real value stored at this position
-        is the current minimum.
+            Agar top < min hai, toh top encoded value hai.
+            Stack mein actual value store nahi hai,
+            lekin woh actual value current minimum hi hai.
+
+            Example:
+            Actual pushed value = 3
+            Encoded value = 1
+            Current minimum = 3
+
+            Stack top 1 return nahi karna,
+            actual value 3 return karni hai.
         */
+
         if (st.top() < min)
             return (int)min;
+
+        // Agar encoding condition nahi hai,
+        // toh stack top hi actual element hai.
         else
             return st.top();
     }
-    
+
     int getMin() {
-        // Always store current minimum in variable min
+        // Minimum ko hum har push/pop ke saath update karte hain,
+        // isliye poora stack traverse karne ki zarurat nahi hai.
         return (int)min;
     }
 };
 
 /*
-Key Intuition:
+    KEY INTUITION:
 
-Instead of using two stacks (one for values and one for minimum),
-we encode values when the minimum changes.
+    Normally minimum track karne ke liye do stacks use kar sakte hain:
+    1. Actual elements ke liye
+    2. Minimum values ke liye
 
-Encoded value = 2 * newMin - oldMin
+    Lekin yahan hum ek hi stack use karte hain.
 
-This allows us to:
-1. Detect when the minimum changed
-2. Recover the previous minimum during pop
+    Jab new value current minimum se chhoti hoti hai,
+    toh encoded value store karte hain:
 
-Time Complexity: O(1) for all operations
-Space Complexity: O(N) using only one stack
+        encoded = 2 * newMin - oldMin
+
+    Isse do fayde hote hain:
+    1. encoded < newMin, toh encoded value ko identify kar sakte hain.
+    2. Pop karte waqt old minimum recover kar sakte hain:
+
+        oldMin = 2 * currentMin - encoded
+
+    Isliye getMin() aur baaki operations O(1) mein hote hain.
+
+    Time Complexity:
+    push()    -> O(1)
+    pop()     -> O(1)
+    top()     -> O(1)
+    getMin()  -> O(1)
+
+    Auxiliary Space:
+    O(N), kyunki ek stack mein maximum N entries store ho sakti hain.
 */
