@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prince5433/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince5433/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/prince5433/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince5433/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prince5433/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prince5433/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prince5433/Leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/prince5433/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince5433/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/prince5433/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/prince5433/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/prince5433/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/prince5433/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/prince5433/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/prince5433/Leetcode/tree/master/0885-spiral-matrix-iii) |
@@ -975,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince5433/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince5433/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/prince5433/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/prince5433/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/prince5433/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prince5433/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -997,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince5433/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/prince5433/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prince5433/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/prince5433/Leetcode/tree/master/0853-car-fleet) |
