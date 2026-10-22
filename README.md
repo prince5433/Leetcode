@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/prince5433/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3799-word-squares-ii](https://github.com/prince5433/Leetcode/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/prince5433/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/prince5433/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
