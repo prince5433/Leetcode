@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
+        // chrome-extension://debbebdlpbnpnnicofdpociejpmokdnm/resources/icon.png$0
         int n = nums.size();
         
         /* =========================================
