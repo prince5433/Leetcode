@@ -1,9 +1,7 @@
-# Write your MySQL query statement below
-SELECT Users.name,
-SUM(Transactions.amount) AS balance
-FROM Users
-INNER JOIN Transactions
-ON Users.account=Transactions.account
-GROUP BY Users.account
-
-HAVING SUM(Transactions.amount)>10000;
+SELECT Users.name,                       -- User ka naam select karo
+SUM(Transactions.amount) AS balance      -- Total balance calculate karo
+FROM Users                               -- Users table se data lo
+INNER JOIN Transactions                  -- Matching transactions ko join karo
+ON Users.account=Transactions.account    -- Account number ke basis par match karo
+GROUP BY Users.account                   -- Har account ka group banao
+HAVING SUM(Transactions.amount)>10000;   -- Sirf 10000 se zyada balance wale accounts rakho
