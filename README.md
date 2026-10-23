@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prince5433/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/prince5433/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prince5433/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/prince5433/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/prince5433/Leetcode/tree/master/0066-plus-one) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince5433/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/prince5433/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prince5433/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prince5433/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/prince5433/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prince5433/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prince5433/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/prince5433/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/prince5433/Leetcode/tree/master/0077-combinations) |
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prince5433/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/prince5433/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/prince5433/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -1371,6 +1375,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prince5433/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prince5433/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/prince5433/Leetcode/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prince5433/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
