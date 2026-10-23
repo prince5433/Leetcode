@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prince5433/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/prince5433/Leetcode/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/prince5433/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/prince5433/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/prince5433/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/prince5433/Leetcode/tree/master/0066-plus-one) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/prince5433/Leetcode/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/prince5433/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/prince5433/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/prince5433/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/prince5433/Leetcode/tree/master/0077-combinations) |
