@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/prince5433/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/prince5433/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/prince5433/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/prince5433/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prince5433/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince5433/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prince5433/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/prince5433/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prince5433/Leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/prince5433/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/prince5433/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/prince5433/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/prince5433/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/prince5433/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/prince5433/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prince5433/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prince5433/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/prince5433/Leetcode/tree/master/0113-path-sum-ii) |
