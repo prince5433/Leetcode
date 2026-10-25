@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 
-SELECT DISTINCT a.num AS ConsecutiveNums  -- Aise numbers return karo jo consecutively aaye hain; DISTINCT duplicates hatata hai
+SELECT  DISTINCT a.num AS ConsecutiveNums  -- Aise numbers return karo jo consecutively aaye hain; DISTINCT duplicates hatata hai
 
 FROM Logs a  -- Logs table ki first copy, jiska naam a hai
 
