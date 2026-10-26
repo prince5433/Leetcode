@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/prince5433/Leetcode/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prince5433/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/prince5433/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince5433/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/prince5433/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince5433/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/prince5433/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/prince5433/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prince5433/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3310-remove-methods-from-project](https://github.com/prince5433/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince5433/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2923-find-champion-i](https://github.com/prince5433/Leetcode/tree/master/2923-find-champion-i) |
 | [3033-modify-the-matrix](https://github.com/prince5433/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/prince5433/Leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince5433/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prince5433/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Stack
@@ -1144,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/prince5433/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/prince5433/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince5433/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince5433/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1357,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prince5433/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prince5433/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3613-minimize-maximum-component-cost](https://github.com/prince5433/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince5433/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quickselect
 |  |
 | ------- |
