@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prince5433/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prince5433/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/prince5433/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/prince5433/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prince5433/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prince5433/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/prince5433/Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/prince5433/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/prince5433/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/prince5433/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/prince5433/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/prince5433/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/prince5433/Leetcode/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince5433/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/prince5433/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prince5433/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/prince5433/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/prince5433/Leetcode/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince5433/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/prince5433/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
