@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/prince5433/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/prince5433/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/prince5433/Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/prince5433/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/prince5433/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/prince5433/Leetcode/tree/master/0500-keyboard-row) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/prince5433/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/prince5433/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0473-matchsticks-to-square](https://github.com/prince5433/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/prince5433/Leetcode/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/prince5433/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/prince5433/Leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0980-unique-paths-iii](https://github.com/prince5433/Leetcode/tree/master/0980-unique-paths-iii) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/prince5433/Leetcode/tree/master/0322-coin-change) |
 | [0473-matchsticks-to-square](https://github.com/prince5433/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prince5433/Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/prince5433/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/prince5433/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/prince5433/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince5433/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -1461,8 +1464,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/prince5433/Leetcode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/prince5433/Leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/prince5433/Leetcode/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/prince5433/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
