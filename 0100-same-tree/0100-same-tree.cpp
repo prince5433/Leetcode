@@ -1,31 +1,46 @@
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        // \U0001f539 Base case 1: if both nodes are NULL → both trees are empty here → same
-        if (p == NULL && q == NULL) 
+
+        // BASE CASE 1:
+        // Agar dono nodes NULL hain, toh dono trees yahan same hain.
+        if(p == NULL && q == NULL)
             return true;
 
-        // \U0001f539 Base case 2: if one is NULL but the other is not → structure mismatch
-        if (p == NULL && q != NULL) 
-            return false;
-        if (q == NULL && p != NULL) 
-            return false; 
-
-        // \U0001f539 Condition 1: if current node values are not equal → trees differ
-        if (p->val != q->val) 
+        // BASE CASE 2:
+        // Agar ek node NULL hai aur doosra NULL nahi hai,
+        // toh tree ka structure different hai.
+        if(p == NULL || q == NULL)
             return false;
 
-        // \U0001f539 Condition 2: check if left subtrees are same
+        // CONDITION 1:
+        // Dono current nodes ki values compare karo.
+        // Agar values different hain, toh trees same nahi ho sakte.
+        if(p->val != q->val)
+            return false;
+
+        // CONDITION 2:
+        // Dono trees ke left subtrees recursively compare karo.
         bool LST = isSameTree(p->left, q->left);
-        if (LST == false) 
-            return false;   // left side mismatch → stop further checks
 
-        // \U0001f539 Condition 3: check if right subtrees are same
+        // Agar left subtree different hai,
+        // toh right subtree check karne ki zarurat nahi.
+        if(LST == false)
+            return false;
+
+        // CONDITION 3:
+        // Dono trees ke right subtrees recursively compare karo.
         bool RST = isSameTree(p->right, q->right);
-        if (RST == false) 
-            return false;   // right side mismatch → stop further checks
 
-        // \U0001f539 If all checks passed → trees are identical
+        // Agar right subtree different hai, toh false return karo.
+        if(RST == false)
+            return false;
+
+        // Agar structure, current values, left aur right
+        // dono subtrees same hain, toh trees identical hain.
         return true;
     }
 };
+
+// TC: O(N) — Worst case mein dono trees ke corresponding nodes visit honge.
+// SC: O(H) — Recursive call stack, H = tree ki height.
