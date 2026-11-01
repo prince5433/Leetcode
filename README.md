@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/prince5433/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince5433/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0980-unique-paths-iii](https://github.com/prince5433/Leetcode/tree/master/0980-unique-paths-iii) |
+| [1004-max-consecutive-ones-iii](https://github.com/prince5433/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince5433/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/prince5433/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/prince5433/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/prince5433/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prince5433/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/prince5433/Leetcode/tree/master/0888-fair-candy-swap) |
+| [1004-max-consecutive-ones-iii](https://github.com/prince5433/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/prince5433/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prince5433/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/prince5433/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prince5433/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/prince5433/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/prince5433/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/prince5433/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prince5433/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prince5433/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/prince5433/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -1225,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/prince5433/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/prince5433/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/prince5433/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/prince5433/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/prince5433/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prince5433/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/prince5433/Leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
