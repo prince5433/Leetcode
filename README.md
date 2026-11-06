@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prince5433/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/prince5433/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2747-count-zero-request-servers](https://github.com/prince5433/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2748-number-of-beautiful-pairs](https://github.com/prince5433/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prince5433/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/prince5433/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/prince5433/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/prince5433/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2747-count-zero-request-servers](https://github.com/prince5433/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/prince5433/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prince5433/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prince5433/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/prince5433/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/prince5433/Leetcode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prince5433/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/prince5433/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2748-number-of-beautiful-pairs](https://github.com/prince5433/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/prince5433/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/prince5433/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -1270,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/prince5433/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/prince5433/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/prince5433/Leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2747-count-zero-request-servers](https://github.com/prince5433/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/prince5433/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/prince5433/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prince5433/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
