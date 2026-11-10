@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/prince5433/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/prince5433/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/prince5433/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/prince5433/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/prince5433/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/prince5433/Leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prince5433/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/prince5433/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prince5433/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince5433/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3693-climbing-stairs-ii](https://github.com/prince5433/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/prince5433/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prince5433/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
