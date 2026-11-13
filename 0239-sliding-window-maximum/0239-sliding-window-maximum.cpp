@@ -1,70 +1,130 @@
+
 class Solution {
 public:
-    vector<int> maxSlidingWindow(vector<int>& arr, int k) {
-        int n = arr.size();
+    vector<int> maxSlidingWindow(vector<int>& nums, int k) {
 
-        // NGI[i] = index of next greater element on the right.
-        // Agar koi greater element nahi mila, toh n store karenge.
-        int ngi[n];
+        int n = nums.size();
 
-        stack<int> st;
+        // Deque stores INDEXES, not actual values.
+        //
+        // We maintain decreasing order of values
+        // corresponding to these indexes.
+        //
+        // Front of deque = index of maximum element
+        // in the current sliding window.
 
-        // Last element ke right mein koi element nahi hai,
-        // isliye sentinel index n store kar rahe hain.
-        ngi[n-1] = n;
-        st.push(n-1);
+        deque<int> dq;
 
-        // Right se left traverse karke next greater index find karo.
-        for(int i = n-2; i >= 0; i--) {
+        // Stores maximum element of every window.
+        vector<int> result;
 
-            // Current element se chhote ya equal elements ko pop karo,
-            // kyunki woh current element ke next greater nahi ho sakte.
-            while(st.size() > 0 && arr[st.top()] <= arr[i]) {
-                st.pop();
+
+        // Traverse the array from left to right.
+        for(int i = 0; i < n; i++) {
+
+
+            // STEP 1: REMOVE OUT-OF-WINDOW INDEXES
+            //
+            // Current window starts at index i-k+1.
+            //
+            // Any index <= i-k is outside the current window.
+            //
+            // Example:
+            // i = 3, k = 3
+            // Current window = [1,2,3]
+            // Index 0 is outside the window.
+            //
+            // Deque front is the oldest candidate,
+            // so remove it if it is outside.
+
+            while(!dq.empty() && dq.front() <= i-k) {
+
+                dq.pop_front();
+                // O(1)
             }
 
-            // Stack empty hai toh koi greater element nahi mila.
-            if(st.size() == 0)
-                ngi[i] = n;
-            else
-                ngi[i] = st.top();
 
-            // Current index ko future elements ke liye store karo.
-            st.push(i);
-        }
+            // STEP 2: MAINTAIN DECREASING ORDER
+            //
+            // Remove all elements from the back whose values
+            // are smaller than the current element.
+            //
+            // Why?
+            // Current element is greater and comes later.
+            // Therefore, smaller previous elements can never
+            // become the maximum while current element is in window.
+            //
+            // IMPORTANT:
+            // dq.back() stores an index.
+            // nums[dq.back()] gives its actual value.
 
-        vector<int> ans;
+            while(!dq.empty() && nums[i] > nums[dq.back()]) {
 
-        // j current window ke maximum candidate ko track karega.
-        int j = 0;
-
-        // Har possible sliding window ke liye maximum find karo.
-        for(int i = 0; i < n-k+1; i++) {
-
-            // j ko current window ke start se pehle nahi rehne dena.
-            if(j < i) j = i;
-
-            int mx = arr[j];
-
-            // Current window ke end tak maximum candidate find karo.
-            while(j < i+k) {
-
-                // Current candidate ko maximum maan rahe hain.
-                mx = arr[j];
-
-                // Agar next greater element current window ke bahar hai,
-                // toh current element hi window ka maximum hai.
-                if(ngi[j] >= i+k) break;
-
-                // Next greater element par jump karo.
-                // Beech ke elements current candidate se chhote hain.
-                j = ngi[j];
+                dq.pop_back();
+                // O(1)
             }
 
-            // Current window ka maximum answer mein add karo.
-            ans.push_back(mx);
+
+            // STEP 3: INSERT CURRENT INDEX
+            //
+            // Current index becomes a candidate for maximum.
+            dq.push_back(i);
+            // O(1)
+
+
+            // STEP 4: STORE ANSWER
+            //
+            // A complete window is formed when i >= k-1.
+            //
+            // Example:
+            // k = 3
+            // First complete window is at index 2.
+            //
+            // Since deque is maintained in decreasing order,
+            // its front contains the maximum element's index.
+
+            if(i >= k-1) {
+
+                result.push_back(nums[dq.front()]);
+                // O(1)
+            }
         }
 
-        return ans;
+        return result;
     }
 };
+
+/*
+TIME COMPLEXITY:
+
+1. Outer loop:
+   Runs n times = O(n).
+
+2. First while loop:
+   Removes indexes outside the window.
+   Every index enters deque once and leaves at most once.
+
+3. Second while loop:
+   Removes smaller elements from the back.
+   Every index enters deque once and leaves at most once.
+
+4. push_back and pop operations:
+   Each takes O(1).
+
+Although there are two while loops inside the for loop,
+their total number of iterations across the entire algorithm
+is O(n), not O(n*k).
+
+FINAL TC = O(n).
+
+
+SPACE COMPLEXITY:
+
+Deque stores at most k indexes = O(k).
+Result stores n-k+1 elements = O(n-k+1).
+
+Auxiliary SC excluding output = O(k).
+Including result vector = O(n).
+
+FINAL SC = O(n).
+*/
