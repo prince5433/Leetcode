@@ -37,7 +37,7 @@ WHERE REGEXP_LIKE(
 
     '^[A-Za-z][A-Za-z0-9_\.\-]*@leetcode[.]com$',
 
-    'c'
+    'c' -- case sensitive ke liye
 );
 
 -- TC: O(n * m) approximately
