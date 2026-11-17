@@ -922,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/prince5433/Leetcode/tree/master/1306-jump-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/prince5433/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prince5433/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prince5433/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/prince5433/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince5433/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Queue
@@ -1218,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/prince5433/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prince5433/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prince5433/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prince5433/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/prince5433/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/prince5433/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince5433/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1352,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/prince5433/Leetcode/tree/master/0547-number-of-provinces) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prince5433/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prince5433/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/prince5433/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3613-minimize-maximum-component-cost](https://github.com/prince5433/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 ## Shortest Path
@@ -1462,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/prince5433/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prince5433/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prince5433/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prince5433/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prince5433/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3613-minimize-maximum-component-cost](https://github.com/prince5433/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince5433/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
