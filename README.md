@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/prince5433/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/prince5433/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/prince5433/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prince5433/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2937-make-three-strings-equal](https://github.com/prince5433/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prince5433/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/prince5433/Leetcode/tree/master/1871-jump-game-vii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prince5433/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prince5433/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prince5433/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/prince5433/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prince5433/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prince5433/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1034,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/prince5433/Leetcode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/prince5433/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/prince5433/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prince5433/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/prince5433/Leetcode/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prince5433/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/prince5433/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
