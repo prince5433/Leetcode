@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/prince5433/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/prince5433/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/prince5433/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/prince5433/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prince5433/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/prince5433/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/prince5433/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -1358,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/prince5433/Leetcode/tree/master/0547-number-of-provinces) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prince5433/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/prince5433/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prince5433/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/prince5433/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3613-minimize-maximum-component-cost](https://github.com/prince5433/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
@@ -1469,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/prince5433/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/prince5433/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prince5433/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/prince5433/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prince5433/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prince5433/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prince5433/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1563,4 +1566,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/prince5433/Leetcode/tree/master/0480-sliding-window-median) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/prince5433/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/prince5433/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/prince5433/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/prince5433/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
