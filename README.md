@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/prince5433/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/prince5433/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prince5433/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/prince5433/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2937-make-three-strings-equal](https://github.com/prince5433/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2947-count-beautiful-substrings-i](https://github.com/prince5433/Leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prince5433/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
