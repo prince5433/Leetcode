@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/prince5433/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prince5433/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/prince5433/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/prince5433/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/prince5433/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2615-sum-of-distances](https://github.com/prince5433/Leetcode/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/prince5433/Leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/prince5433/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince5433/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/prince5433/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/prince5433/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/prince5433/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prince5433/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prince5433/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/prince5433/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince5433/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/prince5433/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/prince5433/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/prince5433/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/prince5433/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prince5433/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
