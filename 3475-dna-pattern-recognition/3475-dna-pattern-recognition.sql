@@ -25,7 +25,7 @@ SELECT
     -- three consecutive G characters.
     -- 'GGG' matches three Gs together.
     -- It also matches inside a longer sequence, such as GGGG.
-    IF(dna_sequence REGEXP 'GGG', 1, 0) AS has_ggg
+    IF(dna_sequence LIKE '%GGG%', 1, 0) AS has_ggg
 
 -- Read each DNA sample from the Samples table.
 FROM Samples
