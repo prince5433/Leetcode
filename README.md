@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/prince5433/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/prince5433/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prince5433/Leetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/prince5433/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/prince5433/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prince5433/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/prince5433/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -1114,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/prince5433/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/prince5433/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prince5433/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/prince5433/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/prince5433/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prince5433/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/prince5433/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -1357,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/prince5433/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/prince5433/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/prince5433/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/prince5433/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/prince5433/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/prince5433/Leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/prince5433/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
