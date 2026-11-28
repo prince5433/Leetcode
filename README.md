@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/prince5433/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/prince5433/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/prince5433/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/prince5433/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/prince5433/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/prince5433/Leetcode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/prince5433/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/prince5433/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/prince5433/Leetcode/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/prince5433/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3799-word-squares-ii](https://github.com/prince5433/Leetcode/tree/master/3799-word-squares-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/prince5433/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prince5433/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/prince5433/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/prince5433/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/prince5433/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Brainteaser
 |  |
 | ------- |
